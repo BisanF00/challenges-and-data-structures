@@ -4,7 +4,7 @@
 
 #### There is an array, and we need to reverse the order of its elements. The goal is to return a new array that contains all the elements of the original array, but in reverse order.
 
-https://github.com/BisanF00/challenges-and-data-structures/blob/main/Challenge%20A-Array%20Reversal.png
+[https://github.com/BisanF00/challenges-and-data-structures/blob/main/Challenge%20A-Array%20Reversal.png](https://github.com/BisanF00/challenges-and-data-structures/blob/main/Challenge%20A-Array%20Reversal.png)
 
 
 ## Challenge B : Most Frequent Number
