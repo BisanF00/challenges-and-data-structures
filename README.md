@@ -13,4 +13,6 @@
 
 ![image2](Challenge%20B-Most%20Frequent%20Number.png)
 
+# Challenge 2 : Minimum Value 
+
 [Challenge2-Link](https://github.com/BisanF00/challenges-and-data-structures/blob/main/challenge2-README.md)
