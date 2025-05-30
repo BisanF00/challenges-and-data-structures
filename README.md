@@ -21,3 +21,7 @@
 [challenge3-Link](https://github.com/BisanF00/challenges-and-data-structures/blob/main/Reverse-Characters/Readme.md)
 
 
+# Challenge 4 : Remove Middle Value
+
+[challenge4-Link](https://github.com/BisanF00/challenges-and-data-structures/blob/Remove-Middle-Value/Remove-Middle-Value/Readme.md)
+
