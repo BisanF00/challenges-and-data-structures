@@ -4,5 +4,7 @@
 
 ![Challenge 4](Remove%20Middle%20Value.png)
 
+#### And there is the consle.log output :
+
 ![console](console.png)
 
