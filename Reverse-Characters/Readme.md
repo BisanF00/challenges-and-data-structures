@@ -4,6 +4,6 @@
 
 ![Reverse-Characters](whiteboard.png)
 
-#### And there is the consle.log output :
+### And there is the consle.log output :
 
 ![consle.log-pic](consle.png)
