@@ -4,7 +4,7 @@
 
 # Challenge 2 : Minimum Value :
 
-[challenge2-Link](https://github.com/BisanF00/challenges-and-data-structures/blob/main/challenge2-README.md)
+[challenge2-Link](https://github.com/BisanF00/challenges-and-data-structures/blob/main/challenge2/challenge2-README.md)
 
 
 # Challenge 3 : Reverse Characters
