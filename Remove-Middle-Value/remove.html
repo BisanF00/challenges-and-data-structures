@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    function RemoveMiddleValue (){
+      let arrRemover = [];
+      const Arr1 = [1,2,3,4,5];
+      let middleValue ;
+
+      if (Arr1.length % 2 === 0){
+          middleValue = (Arr1.length / 2);
+        }else {
+          middleValue = (Arr1.length -1) / 2 ;
+        }
+
+      for (let i=0; i<Arr1.length; i++) {
+        if (i !== middleValue) {
+          arrRemover[arrRemover.length] = Arr1[i] ;
+        }
+      }
+      console.log (arrRemover);
+    }
+    RemoveMiddleValue ();
+
+    function RemoveMiddleValue2 (){
+      let arrRemover2 = [];
+      const Arr2 = [27, 8, 15, 73, 27];
+      let middleValue ;
+
+      if (Arr2.length % 2 === 0){
+          middleValue = (Arr2.length / 2);
+        }else {
+          middleValue = (Arr2.length -1) / 2 ;
+        }
+
+      for (let i=0; i<Arr2.length; i++) {
+        if (i !== middleValue) {
+          arrRemover2[arrRemover2.length] = Arr2[i] ;
+        }
+      }
+      console.log (arrRemover2);
+    }
+    RemoveMiddleValue2 ();
+
+    function RemoveMiddleValue3 (){
+      let arrRemover3 = [];
+      const Arr3 = [7, 9, 13, 25, 5, 17];
+      let middleValue ;
+
+      if (Arr3.length % 2 === 0){
+          middleValue = (Arr3.length / 2);
+        }else {
+          middleValue = (Arr3.length -1) / 2 ;
+        }
+
+      for (let i=0; i<Arr3.length; i++) {
+        if (i !== middleValue) {
+          arrRemover3[arrRemover3.length] = Arr3[i] ;
+        }
+      }
+      console.log (arrRemover3);
+    }
+    RemoveMiddleValue3 ();
+  </script>
+</body>
+</html>
