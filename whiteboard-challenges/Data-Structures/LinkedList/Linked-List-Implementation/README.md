@@ -4,7 +4,7 @@
 
 ## The Linked List class support functions to :
 
-### add(data) : Add a new node with the specified data to the end of the linkedlist.
+### 1- add(data) : Add a new node with the specified data to the end of the linkedlist.
 
 ![add](./images/addFunction.png)
 
@@ -12,7 +12,7 @@
 
 ![addoutput](./images/addOutput.png)
 
-### remove(data) : Remove the first node with the specified data from the linkedlist.
+### 2- remove(data) : Remove the first node with the specified data from the linkedlist.
 
 ![remove](./images/removeFunction.png)
 
@@ -20,7 +20,7 @@
 
 ![removeoutput](./images/removeOutput.png)
 
-### includes(data) : Check if the linked list contains a node with the specified value.
+### 3- includes(data) : Check if the linked list contains a node with the specified value.
 
 ![includes](./images/includesFunction.png)
 
@@ -28,7 +28,7 @@
 
 ![includesoutput](./images/includesOutput.png)
 
-### insertAt(data, index) : Insert a new node with the specified data at the specified index in the linkedlist.
+### 4- insertAt(data, index) : Insert a new node with the specified data at the specified index in the linkedlist.
 
 ![insertAt](./images/insertAtFunction.png)
 
