@@ -12,7 +12,11 @@
 
 ![addoutput](./images/addOutput.png)
 
-### 2- remove(data) : Remove the first node with the specified data from the linkedlist.
+### 2- printList() : Print the contents of the list in order .
+
+![print](./images/printListFunction.png)
+
+### 3- remove(data) : Remove the first node with the specified data from the linkedlist.
 
 ![remove](./images/removeFunction.png)
 
@@ -20,7 +24,7 @@
 
 ![removeoutput](./images/removeOutput.png)
 
-### 3- includes(data) : Check if the linked list contains a node with the specified value.
+### 4- includes(data) : Check if the linked list contains a node with the specified value.
 
 ![includes](./images/includesFunction.png)
 
@@ -28,7 +32,7 @@
 
 ![includesoutput](./images/includesOutput.png)
 
-### 4- insertAt(data, index) : Insert a new node with the specified data at the specified index in the linkedlist.
+### 5- insertAt(data, index) : Insert a new node with the specified data at the specified index in the linkedlist.
 
 ![insertAt](./images/insertAtFunction.png)
 
