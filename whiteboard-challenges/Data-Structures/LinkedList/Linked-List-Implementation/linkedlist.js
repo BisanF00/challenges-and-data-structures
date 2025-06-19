@@ -1,4 +1,4 @@
-const Node = require ("./classNode")
+const Node = require ("./classNode");
 
 class LinkedList {
   constructor () {

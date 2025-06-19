@@ -1,4 +1,4 @@
-const linkedlist = require ("./linkedList");
+const linkedlist = require ("../linkedlist");
 
 test ("adding node to the end of a linked list", () => {
   const list = new linkedlist ();
