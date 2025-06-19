@@ -19,3 +19,7 @@
 # Linked List Implementation
 
 [Linked List Implementation - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/main/whiteboard-challenges/Data-Structures/LinkedList/Linked-List-Implementation/README.md)
+
+# Linked List Reverse
+
+[Linked List Reverse - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/main/whiteboard-challenges/Data-Structures/LinkedList/Linked-List-Implementation/reverse/README.md)
