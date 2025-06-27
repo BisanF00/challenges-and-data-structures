@@ -23,3 +23,7 @@
 # Linked List Reverse
 
 [Linked List Reverse - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/main/whiteboard-challenges/Data-Structures/LinkedList/Linked-List-Implementation/reverse/README.md)
+
+# Linked List Merge Sorted Lists
+
+[Linked List Merge Sorted Lists - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/main/whiteboard-challenges/Data-Structures/LinkedList/Linked-List-Implementation/MergeSorted/README.md)
