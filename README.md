@@ -27,3 +27,7 @@
 # Linked List Merge Sorted Lists
 
 [Linked List Merge Sorted Lists - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/main/whiteboard-challenges/Data-Structures/LinkedList/Linked-List-Implementation/MergeSorted/README.md)
+
+# Linked List Rotate by K 
+
+[Linked List Rotate by K - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/Linked-List-Rotate-K/whiteboard-challenges/Data-Structures/LinkedList/Linked-List-Implementation/RotateLikedList/README.md)
