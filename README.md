@@ -35,3 +35,7 @@
 # Stack and Queue Implementation 
 
 [Stack and Queue Implementation - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/main/whiteboard-challenges/Data-Structures/Stack_Queue/StackAndQueue/README.md)
+
+# Delete Middle Element of a Stack
+
+[Delete Middle Element of a Stack - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/whiteboard-challenges/Data-Structures/Stack_Queue/StackAndQueue/DeleteMiddleElement/README.md)
