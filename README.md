@@ -39,3 +39,7 @@
 # Delete Middle Element of a Stack
 
 [Delete Middle Element of a Stack - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/whiteboard-challenges/Data-Structures/Stack_Queue/StackAndQueue/DeleteMiddleElement/README.md)
+
+# Min-Stack Challenge
+
+[Min-Stack Challenge - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/Min-Stack/whiteboard-challenges/Data-Structures/Stack_Queue/StackAndQueue/MinStack/README.md)
