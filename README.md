@@ -43,3 +43,7 @@
 # Min-Stack Challenge
 
 [Min-Stack Challenge - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/Min-Stack/whiteboard-challenges/Data-Structures/Stack_Queue/StackAndQueue/MinStack/README.md)
+
+# Binary Tree and Binary Search Tree Implementation
+
+[Binary Tree and Binary Search Tree Challenge - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/Tree-Implementation/whiteboard-challenges/Data-Structures/Trees/README.md)
