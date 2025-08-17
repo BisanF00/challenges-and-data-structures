@@ -4,16 +4,16 @@
 
 ## Binary Tree :
 
-![BinaryTreeClass]("./images/BinaryTreeClass.png")
+![BinaryTreeClass](./images/BinaryTreeClass.png)
 
 ### and this the output that shown in console :
 
-![BinaryTreeOutput]("./images/BinaryTreeOutput.png")
+![BinaryTreeOutput](./images/BinaryTreeOutput.png)
 
 ## Binary Search Tree :
 
-![BSTClass]("./images/BSTClass.png")
+![BSTClass](./images/BSTClass.png)
 
 ### and this the output that shown in console :
 
-![BSTOutput]("./images/BSTOutput.png")
+![BSTOutput](./images/BSTOutput.png)
