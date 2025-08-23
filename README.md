@@ -47,3 +47,7 @@
 # Binary Tree and Binary Search Tree Implementation
 
 [Binary Tree and Binary Search Tree Challenge - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/Tree-Implementation/whiteboard-challenges/Data-Structures/Trees/README.md)
+
+# Binary Tree - Second Maximum Value
+
+[Second Maximum Value Challenge - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/Second-Max-Value/whiteboard-challenges/Data-Structures/Trees/SecondMaxValue/README.md)
