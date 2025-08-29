@@ -51,3 +51,7 @@
 # Binary Tree - Second Maximum Value
 
 [Second Maximum Value Challenge - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/Second-Max-Value/whiteboard-challenges/Data-Structures/Trees/SecondMaxValue/README.md)
+
+# Binary Tree - Sum of leaf nodes
+
+[Leaf Sum Challenge - Link](https://github.com/BisanF00/challenges-and-data-structures/blob/main/whiteboard-challenges/Data-Structures/Trees/LeafSum/README.md)
